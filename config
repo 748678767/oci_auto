@@ -1,6 +1,7 @@
 [DEFAULT]
-user=ocid1.user.oc1..**********************************
-fingerprint=*****************************
-tenancy=ocid1.tenancy.oc1..********************************************************************
-region=ap-**********************************
+user=ocid1.user.oc1..aaaaaaaa3th5wrnplxp5zhkvf5r5wno2zlh3jvhbe3vposile3ctgyoby7gq
+fingerprint=46:ab:39:84:91:fd:75:f0:ff:4f:32:41:ef:30:79:5d
+tenancy=ocid1.tenancy.oc1..aaaaaaaao6rrmr6q6jd32oqy46xpdmunm5mfbiop7ry7t2echs4pq3i4cxlq
+region=us-phoenix-1
+key_file=<path to your private keyfile> # TODO
 key_file=oci_private_key.pem
